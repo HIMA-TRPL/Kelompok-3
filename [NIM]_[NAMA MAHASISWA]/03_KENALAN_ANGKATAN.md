@@ -440,7 +440,7 @@
 * **NIM:** 264311040
 * **TTL:** Madiun, 10 Mei 2007
 * **Nomer Handphone:** 08976381168
-* **Nama Kelompok:** Kelompok 9 RAILS
+* **Nama Kelompok:** RAILS
 * **Asal Daerah:** Madiun
 * **Asal Sekolah:** SMAN 2 Kota Madiun
 * **Fun Fact:** malas merah
