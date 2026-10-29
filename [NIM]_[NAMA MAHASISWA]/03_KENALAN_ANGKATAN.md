@@ -434,7 +434,18 @@
 * **Asal Sekolah:** SMKS SENOPATI
 * **Fun Fact:** Hobi Turu
 
-### [40] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
+### [40] 264311040 - FAIRUZ NADHIR RAHMAD
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Fairuz Nadhir Rahmad
+* **NIM:** 264311040
+* **TTL:** Madiun, 10 Mei 2007
+* **Nomer Handphone:** 08976381168
+* **Nama Kelompok:** Kelompok 9 RAILS
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 2 Kota Madiun
+* **Fun Fact:** malas merah
+
+### [41] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041_Fauzan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FAUZAN WISAM FALAHUL BASHIROH
 * **NIM:** 264311041
@@ -445,7 +456,7 @@
 * **Asal Sekolah:** SMAN 1 NGAWI
 * **Fun Fact:** jadi backburner
 
-### [41] 264311042 - GADING FANDY RAYA
+### [42] 264311042 - GADING FANDY RAYA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311042_Gading.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GADING FANDY RAYA
 * **NIM:** 264311042
@@ -456,7 +467,7 @@
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** -
 
-### [42] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
+### [43] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043_Glendy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
 * **NIM:** 264311043
@@ -467,7 +478,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** Anda kenal saya tau sendiri
 
-### [43] 264311044 - HEKSA ABDILLAH AL GHOFAR
+### [44] 264311044 - HEKSA ABDILLAH AL GHOFAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044_Heksa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** HEKSA ABDILLAH AL GHOFAR
 * **NIM:** 264311044
@@ -478,7 +489,7 @@
 * **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
-### [44] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
+### [45] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
@@ -489,7 +500,7 @@
 * **Asal Sekolah:** SMAN 01 MADIUN
 * **Fun Fact:** Feminist
 
-### [45] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+### [46] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311046_Kevin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
 * **NIM:** 264311046
@@ -500,7 +511,7 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [46] 264311047 - MOHAMAD FATIR
+### [47] 264311047 - MOHAMAD FATIR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047_Fatir.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOHAMAD FATIR
 * **NIM:** 264311047
@@ -511,7 +522,7 @@
 * **Asal Sekolah:** SMKN 1 GEGER
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
-### [47] 264311048 - Muhammad Amirul Hafidz 
+### [48] 264311048 - Muhammad Amirul Hafidz 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz 
 * **NIM:** 264311048
@@ -522,7 +533,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** awas ya ITS tahun depan
 
-### [48] 264311049 - MUHAMMAD MAHLAYAN 
+### [49] 264311049 - MUHAMMAD MAHLAYAN 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049_Mahlayan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD MAHLAYAN
 * **NIM:** 264311049
@@ -533,7 +544,7 @@
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
-### [49] 264311050 - NADILA WULANSARI 
+### [50] 264311050 - NADILA WULANSARI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NADILA WULANSARI
 * **NIM:** 264311050
@@ -544,7 +555,7 @@
 * **Asal Sekolah:** SMAN 1 KEDUNGGALAR 
 * **Fun Fact:** Gabut pengen ngopi 
 
-### [50] 264311051 - Nazhwa Al Karana Putri  
+### [51] 264311051 - Nazhwa Al Karana Putri  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
@@ -554,17 +565,6 @@
 * **Asal Daerah:** KAB NGAWI
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** suka makan tapi malas ngunyah 
-
-### [51] 264311052 - NAZRIL DESTA ADHANDA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** NAZRIL DESTA ADHANDA
-* **NIM:** 264311052
-* **TTL:** MADIUN, 20 DESEMBER 2007
-* **Nomer Handphone:** 085812383955
-* **Nama Kelompok:** REACT
-* **Asal Daerah:** KAB.MADIUN
-* **Asal Sekolah:** SMAN 1 DAGANGAN
-* **Fun Fact:** rispek bgtt
 
 ### [52] 264311053 - NILA AYUNISA  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
