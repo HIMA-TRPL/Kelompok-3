@@ -8,7 +8,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001 - ADHINIA ALKURRATU AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADHINIA ALKURRATU AINNI
 * **NIM:** 264311001
-* **TTL:** MADIUN, 11 DESEMBER 20077
+* **TTL:** MADIUN, 11 DESEMBER 2007
 * **Nomer Handphone:** 0895397031103
 * **Nama Kelompok:** EKPRESS
 * **Asal Daerah:** NGAWI
