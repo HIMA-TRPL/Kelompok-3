@@ -58,7 +58,7 @@
 * **Fun Fact:** HIKING
 
 ### [06] 264311006 - Aulia Fatmawati
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006_Aulia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006_Aulia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Fatmawati
 * **NIM:** 264311006
 * **TTL:** Madiun, 09 November 2007
@@ -135,7 +135,7 @@
 * **Fun Fact:** Cadel
 
 ### [13] 264311013 - Edgar Rizki Putra Novariyanto
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013_Edgar.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013_Edgar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Edgar Rizki Putra Novariyanto
 * **NIM:** 264311013
 * **TTL:** Madiun, 17 November 2007
@@ -234,7 +234,7 @@
 * **Fun Fact:** dipanggil nengok
 
 ### [22] 264311022 - Naila Azahra Fitri
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022_Naila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022_Naila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Naila Azahra Fitri
 * **NIM:** 264311022
 * **TTL:** Bojonegoro, 10 Oktober 2008
@@ -256,7 +256,7 @@
 * **Fun Fact:** lagi rewatch marvel💚
 
 ### [24] 264311024 - Ngazimatul Khusna
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_Ngazimatul.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_Ngazimatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ngazimatul Khusna
 * **NIM:** 264311024
 * **TTL:** Ngawi, 12 Juli 2007
@@ -300,7 +300,7 @@
 * **Fun Fact:** Suka kopag
 
 ### [28] 264311028 - Rhahma Dwi Sekarsari
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rhahma Dwi Sekarsari
 * **NIM:** 264311028
 * **TTL:** Nganjuk, 31 Juli 2008
@@ -758,7 +758,7 @@
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
 ### [69] 264311070 - Ikhzaniero Ardyana Juniar
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_Ikhzanihero.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_Ikhzanihero.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ikhzaniero Ardyana Juniar
 * **NIM:** 264311070
 * **TTL:** Magetan, 07 Juni 2007
