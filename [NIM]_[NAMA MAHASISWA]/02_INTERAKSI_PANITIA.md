@@ -199,11 +199,11 @@
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota PSDM
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -362,7 +362,7 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** Koordinator DKM
-* **TTL:** 19 September 2005
+* **TTL:** Ponorogo, 19 September 2005
 * **Nomer Handphone:** 089524151260
 * **Username GitHub:** @driannmlnaa
 * **Asal Daerah:** Ponorogo
