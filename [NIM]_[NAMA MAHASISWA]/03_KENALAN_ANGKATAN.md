@@ -3,7 +3,7 @@
 ---
 
 ### [01] 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_Adhinia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_Adhinia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
@@ -36,7 +36,7 @@
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### [04] 264311004 - Afrin Rachmad Setio
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004_Afrien.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004_Afrien.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afrin Rachmad Setio
 * **NIM:** 264311004
 * **TTL:** Magetan, 30 Agustus 2008
@@ -168,7 +168,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### [16] 264311016 - Fatikha Artemisia
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fatikha Artemisia
 * **NIM:** 264311016
 * **TTL:** Magetan, 16 Desember 2007
@@ -179,7 +179,7 @@
 * **Fun Fact:** cinta kecap
 
 ### [17] 264311017 - Jelita Palupi Kusuma Wardani
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017_Jelita.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017_Jelita.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jelita Palupi Kusuma Wardani
 * **NIM:** 264311017
 * **TTL:** Sidoarjo, 17 Maret 2008
@@ -391,7 +391,7 @@
 * **Fun Fact:** bersin" habis ngekek
 
 ### [36] 264311036 - ANNISA NIMASTURNA MEYSARAHMA  
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa Nimasturna.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa Nimasturna.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
 * **NIM:** 264311036
 * **TTL:** KOTA MADIUN, 07 MEI 2007
@@ -402,7 +402,7 @@
 * **Fun Fact:** drakor addict 
 
 ### [37] 264311037 - ANASTASYA SILVIA MONICA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANASTASYA SILVIA MONICA
 * **NIM:** 264311037
 * **TTL:** Kota Magetan, 5 Juni 2008
@@ -424,7 +424,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### [39] 264311039 - DEWI WASILATUL KHOIRIYAH  
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039_Dewi Wasilatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039_Dewi Wasilatul.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH
 * **NIM:** 264311039
 * **TTL:** SIDOARJO, 21 NOVEMBER 2007
@@ -490,7 +490,7 @@
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### [45] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
 * **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
@@ -523,7 +523,7 @@
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [48] 264311048 - Muhammad Amirul Hafidz 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz 
 * **NIM:** 264311048
 * **TTL:** PONOROGO, 06 APRIL 2007
