@@ -88,7 +88,7 @@
 * **Nama Kelompok:** React
 * **Asal Daerah:** Ngawi
 * **Asal Sekolah:** SLONCOM
-* **Fun Fact:** TIDAK ADA
+* **Fun Fact:** Suka Otomotif
 
 ### [09] 264311009 - Bramanta Setya Bagaskara
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
