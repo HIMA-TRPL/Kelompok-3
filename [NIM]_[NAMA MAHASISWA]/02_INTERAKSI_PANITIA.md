@@ -199,7 +199,7 @@
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
-* **Jabatan:** [PSDM]
+* **Jabatan:** [STAFF_PSDM]
 * **TTL:** [MADIUN, 31_AGUSTUS_2006]
 * **Nomer Handphone:** [081553111275]
 * **Username GitHub:** @[111ndy]
