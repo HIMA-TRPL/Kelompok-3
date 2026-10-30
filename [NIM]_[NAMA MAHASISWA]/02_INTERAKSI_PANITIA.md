@@ -472,6 +472,25 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [45] Volunteer - [NADYA_NUR_KAMILA]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [NADYA_NUR_KAMILA]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [MADIUN, 1_SEPTEMBER_2006]
+* **Nomer Handphone:** [085731873063]
+* **Username GitHub:** @[nanayaaa]
+* **Asal Daerah:** [MADIUN]
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+## [46] Volunteer - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGARONG, 19 FEBRUARI_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ---
