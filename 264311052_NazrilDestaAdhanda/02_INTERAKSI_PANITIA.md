@@ -91,7 +91,7 @@
 ### [09] Dagri - Firdaus Ilham F.
 * <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS ILHAM F.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
-* **Jabatan:** Anggota
+* **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 01 Januari 2007
 * **Nomer Handphone:** 081977285545
 * **Username GitHub:** @fadlukkr
@@ -101,7 +101,7 @@
 ### [10] Dagri - Bangkit Cahya Linuwih
 * <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
-* **Jabatan:** Anggota Muda Dagri
+* **Jabatan:** Anggota Dagri
 * **TTL:** Pacitan, 02 April 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
@@ -111,7 +111,7 @@
 ### [11] Dagri - Nadia Tifara Sidiq
 * <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
-* **Jabatan:** Sie Acara
+* **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
@@ -125,7 +125,7 @@
 ### [12] Humas - Adam Noverian
 * <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Adam Noverian
-* **Jabatan:** Ketua Humas
+* **Jabatan:** Kordinator Humas
 * **TTL:** Surabaya, 08 November 2005
 * **Nomer Handphone:** 085113168995
 * **Username GitHub:** @Swipezz
@@ -155,7 +155,7 @@
 ### [15] Humas - Cristian Reynaldi
 * <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.jpg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota Humas
 * **TTL:** Jakarta, 18 Januari 2007
 * **Nomer Handphone:** 088296706471
 * **Username GitHub:** @crysaldi
@@ -165,7 +165,7 @@
 ### [16] Humas - Atha Aryasatya
 * <img src="assets/PANITIA/Humas/HUMAS - ATHA ARYASATYA.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
-* **Jabatan:** Staff Humas
+* **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 22 Februari 2005
 * **Nomer Handphone:** 089608188727
 * **Username GitHub:** @athaaryasatya
@@ -209,7 +209,7 @@
 ### [20] PSDM - Abdul Aziz Mushthofa
 * <img src="assets/PANITIA/PSDM/PSDM - ABDUL AZIZ MUSHTHOFA.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
-* **Jabatan:** Staff Muda PSDM / Ketupel
+* **Jabatan:** Anggota PSDM
 * **TTL:** Tulungagung, 13 April 2006
 * **Nomer Handphone:** 087823352468
 * **Username GitHub:** @Artemisee77
@@ -283,7 +283,7 @@
 ### [27] Sosma - Lutfilah Ahmad
 * <img src="assets/PANITIA/Sosma/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Anggota Muda
+* **Jabatan:** Anggota Sosma
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfillahh
@@ -317,7 +317,7 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** Anggota
+* **Jabatan:** Anggota PDD
 * **TTL:** NGAWI, 24_SEPTEMBER_2005
 * **Nomer Handphone:** 0895405971849
 * **Username GitHub:** @hannnzu
@@ -327,7 +327,7 @@
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - ACHMAD ALVIN AL FALAH.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
-* **Jabatan:** Anggota
+* **Jabatan:** Anggota PDD
 * **TTL:** Ponorogo, 18 Januari 2006
 * **Nomer Handphone:** 085230210357
 * **Username GitHub:** @AchmadAlvin
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Anggota Muda
+* **Jabatan:** Anggota PDD
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -347,7 +347,7 @@
 ### [33] PDD - Dinda Rahmawati
 * <img src="assets/PANITIA/PDD/PDD - DINDA RAHMAWATI.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
-* **Jabatan:** Anggota Muda
+* **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
@@ -371,7 +371,7 @@
 ### [35] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota DKM
 * **TTL:** Mojokerto, 29 Juli 2006
 * **Nomer Handphone:** 081515667521
 * **Username GitHub:** @jimlydwi
@@ -381,7 +381,7 @@
 ### [36] DKM - Dheandra Khairunnisa P.
 * <img src="assets/PANITIA/DKM/DKM - DHEANDRA KHAIRUNNISA PAMBUDI.jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
-* **Jabatan:** Sie Kesehatan
+* **Jabatan:** Anggota DKM
 * **TTL:** Madiun, 27 September 2005
 * **Nomer Handphone:** 085812382730
 * **Username GitHub:** @DheandraKhairunnisaP
@@ -445,7 +445,7 @@
 ### [42] Volunteer - Aisyah Nur Fadillah
 * <img src="assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILAH.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
-* **Jabatan:** Volunteer (Komdis)
+* **Jabatan:** Volunteer
 * **TTL:** Magetan, 21 September 2006
 * **Nomer Handphone:** 082142461742
 * **Username GitHub:** @aisyahnurfadillah
@@ -465,7 +465,7 @@
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
 * <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
-* **Jabatan:** Volunteer (Konsumsi)
+* **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
 * **Nomer Handphone:** 085733213487
 * **Username GitHub:** @erov1n
@@ -474,22 +474,22 @@
 
 ### [45] Volunteer - NADYA_NUR_KAMILA
 * <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="NADYA_NUR_KAMILA" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NADYA_NUR_KAMILA]
-* **Jabatan:** [VOLUNTEER]
-* **TTL:** [MADIUN, 1_SEPTEMBER_2006]
-* **Nomer Handphone:** [085731873063]
-* **Username GitHub:** @[nanayaaa]
-* **Asal Daerah:** [MADIUN]
+* **Nama Panitia:** NADYA NUR KAMILA
+* **Jabatan:** Volunteer
+* **TTL:** MADIUN, 1 SEPTEMBER 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** MADIUN
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ## [46] Volunteer - GALANG_SURYA_PRASETYO
 * <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jfif" alt="GALANG_SURYA_PRASETYO" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
-* **Jabatan:** [VOLUNTEER]
-* **TTL:** [TENGGARONG, 19 FEBRUARI_2007]
-* **Nomer Handphone:** [081247074623]
-* **Username GitHub:** @[PrassHere]
-* **Asal Daerah:** [KALIMANTAN_TIMUR]
+* **Nama Panitia:** GALANG SURYA PRASETYO
+* **Jabatan:** Volunteer
+* **TTL:** TENGGARONG, 19 FEBRUARI 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** KALIMANTAN_TIMUR
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
