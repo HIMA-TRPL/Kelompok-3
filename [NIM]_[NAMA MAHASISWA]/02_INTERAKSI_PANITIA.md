@@ -527,7 +527,7 @@
 
 ### [46] Volunteer - [GALANG_SURYA_PRASETYO]
 * ikuti langkah nomer 1 untuk menampilkan gambar
-* <img src="\assets\PANITIA\VOLUNTEER\VOLUNTEER - GALANG_SURYA_PRASETYO" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="\assets\PANITIA\VOLUNTEER\VOLUNTEER - GALANG_SURYA_PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [TENGGARONG_19_FEBRUARI_2007]
