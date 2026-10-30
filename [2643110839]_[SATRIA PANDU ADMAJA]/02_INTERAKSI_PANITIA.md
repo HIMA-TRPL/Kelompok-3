@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] VOLUNTEER - [NABIL_SUNU_WIDYA_DHANA]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.png" alt="NABIL SUNU WIDYA DHANA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.png" alt="NABIL SUNU WIDYA DHANA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NABIL_SUNU_WIDYA_DHANA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [BEKASI,_15_MARET_2006]
