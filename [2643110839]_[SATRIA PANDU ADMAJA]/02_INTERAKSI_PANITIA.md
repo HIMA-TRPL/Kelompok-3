@@ -359,7 +359,7 @@
 ## 🏛️ DIVISI DKM (DANA & KEWIRAUSAHAAN MAHASISWA)
 
 ### [34] DKM - [ANDRIAN_MAULANA]
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="ANDRIAN MAULANA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - ANDRIAN MAULANA.png" alt="ANDRIAN MAULANA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR_DKM]
 * **TTL:** [PONOROGO,_19_SEPTEMBER_2005]
@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - [JIMLI_DWI_ASSIDDIQI]
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="JIMLI DWI ASSIDDIQI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.png" alt="JIMLI DWI ASSIDDIQI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [JIMLI_DWI_ASSIDDIQI]
 * **Jabatan:** [PERKAP]
 * **TTL:** [MOJOKERTO,_29_JULI_2006]
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - [DHEANDRA_KHAIRUNNISA_PAMBUDI.]
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa Pambudi.png" alt="DHEANDRA KHAIRUNNISA P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - DHEANDRA KHAIRUNNISA PAMBUDI.png" alt="DHEANDRA KHAIRUNNISA P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEANDRA_KHAIRUNNISA_P.]
 * **Jabatan:** [SIE_KESEHATAN]
 * **TTL:** [MADIUN,_27_SEPTEMBER_2005]
@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - [SEKAR_PURWITA_ASRI]
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.png" alt="SEKAR PURWITA ASRI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - SEKAR PURWITA ASRI.png" alt="SEKAR PURWITA ASRI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEKAR_PURWITA_ASRI]
 * **Jabatan:** [ANGGOTA_DKM]
 * **TTL:** [MAGETAN,_15_JULI_2006]
@@ -413,7 +413,7 @@
 ## 🏛️ VOLUNTEER
 
 ### [39] VOLUNTEER - [SEPTIAN_ANGGA_SAPUTRA]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.png" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.png" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEPTIAN_ANGGA_SAPUTRA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO,_12_SEPTEMBER_2006]
