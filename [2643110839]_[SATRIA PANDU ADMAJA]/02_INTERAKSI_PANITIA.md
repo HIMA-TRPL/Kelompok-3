@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [MUHAMMAD_ADAM_AL-KIDRI]
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Adam Al-Kidri.png" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - MUHAMMAD ADAM AL-KIDRI.png" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_ADAM_AL-KIDRI]
 * **Jabatan:** [WAKIL_KETUA_UMUM_HIMA_TRPL_2026]
 * **TTL:** [MAGETAN,_08_SEPTEMBER_2005]
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [FATHUR_ROSHIN_HADDINANTA]
-* <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.png" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - FATHUR ROSHIN HADDINANTA.png" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
 * **Jabatan:** [SEKRETARIS_1]
 * **TTL:** [TULUNGAGUNG,_21_SEPTEMBER_2005]
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [NAILA_ZAHRA_YASMINE]
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.png" alt="NAILA ZAHRA YASMINE" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - NAILA ZAHRA YASMINE.png" alt="NAILA ZAHRA YASMINE" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAILA_ZAHRA_YASMINE]
 * **Jabatan:** [SEKRETARIS_2]
 * **TTL:** [MADIUN,_09_OKTOBER_2006]
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - [ALIVIA_RIZKA_WARDANI]
-* <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - ALIVIA RIZKA WARDANI.png" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALIVIA_RIZKA_WARDANI]
 * **Jabatan:** [BENDAHARA_1]
 * **TTL:** [NGAWI,_12_SEPTEMBER_2007]
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [DHEA_NOVIKA]
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.png" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH - DHEA NOVIKA" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEA_NOVIKA]
 * **Jabatan:** [BENDAHARA_2]
 * **TTL:** [MADIUN,_13_NOVEMBER_2006]
