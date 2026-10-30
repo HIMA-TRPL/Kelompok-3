@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [AZZA_AULIYAUL_F]
-* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN, 19_NOVEMBER_2005]
