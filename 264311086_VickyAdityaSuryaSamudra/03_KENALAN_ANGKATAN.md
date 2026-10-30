@@ -936,18 +936,7 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
-### 85 264311086 - Vicky Aditya Surya Samudra
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Vicky Aditya Surya Samudra
-* **NIM:** 264311086
-* **TTL:** Madiun, 1 Juli 2007
-* **Nomer Handphone:** 085710849497
-* **Nama Kelompok:** React
-* **Asal Daerah:** Madiun
-* **Asal Sekolah:** SMAN 4 MADIUN
-* **Fun Fact:** Memelihara Kambing
-
-### 86 264311087 - Yaya Winda Salma
+### 85 264311087 - Yaya Winda Salma
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/yaya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
@@ -958,7 +947,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** suka gambar
 
-### 87 264311088 - Zidan Zarakhi Ridwan Habibi
+### 86 264311088 - Zidan Zarakhi Ridwan Habibi
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/zidan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
