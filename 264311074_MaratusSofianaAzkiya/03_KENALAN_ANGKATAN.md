@@ -90,7 +90,7 @@
 * **Nama Kelompok:** [REACT]
 * **Asal Daerah:** [NGAWI]
 * **Asal Sekolah:** [SLONCOM]
-* **Fun Fact:** [TIDAK_ADA]
+* **Fun Fact:** [SUKA_OTOMOTIF]
 
 ### [09] [264311009] - [BRAMANTA_SETYA_BAGASKARA]
 * <img src="\assets\MAHASISWA_BARU\Kelas_1A\26431109-BRAMANTA_SETYA_BAGASKARA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
