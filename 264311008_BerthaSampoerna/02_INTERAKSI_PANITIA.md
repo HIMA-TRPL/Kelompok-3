@@ -101,7 +101,7 @@
 ### [10] Dagri - Bangkit Cahya Linuwih
 * <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
-* **Jabatan:** Staff Muda Dagri
+* **Jabatan:** Anggota
 * **TTL:** Pacitan, 02 April 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
@@ -111,7 +111,7 @@
 ### [11] Dagri - Nadia Tifara Sidiq
 * <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
-* **Jabatan:** Sie Acara
+* **Jabatan:** Anggota 
 * **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
@@ -155,7 +155,7 @@
 ### [15] Humas - Cristian Reynaldi
 * <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.jpg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota 
 * **TTL:** Jakarta, 18 Januari 2007
 * **Nomer Handphone:** 088296706471
 * **Username GitHub:** @crysaldi
@@ -165,7 +165,7 @@
 ### [16] Humas - Atha Aryasatya
 * <img src="assets/PANITIA/Humas/HUMAS - ATHA ARYASATYA.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
-* **Jabatan:** Staff Humas
+* **Jabatan:** Anggota 
 * **TTL:** Madiun, 22 Februari 2005
 * **Nomer Handphone:** 089608188727
 * **Username GitHub:** @athaaryasatya
@@ -209,7 +209,7 @@
 ### [20] PSDM - Abdul Aziz Mushthofa
 * <img src="assets/PANITIA/PSDM/PSDM - ABDUL AZIZ MUSHTHOFA.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
-* **Jabatan:** Staff Muda PSDM / Ketupel
+* **Jabatan:** Anggota 
 * **TTL:** Tulungagung, 13 April 2006
 * **Nomer Handphone:** 087823352468
 * **Username GitHub:** @Artemisee77
@@ -283,7 +283,7 @@
 ### [27] Sosma - Lutfilah Ahmad
 * <img src="assets/PANITIA/Sosma/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota 
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfillahh
@@ -327,7 +327,7 @@
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - ACHMAD ALVIN AL FALAH.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
-* **Jabatan:** PJ
+* **Jabatan:** Anggota 
 * **TTL:** Ponorogo, 18 Januari 2006
 * **Nomer Handphone:** 085230210357
 * **Username GitHub:** @AchmadAlvin
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota 
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -347,7 +347,7 @@
 ### [33] PDD - Dinda Rahmawati
 * <img src="assets/PANITIA/PDD/PDD - DINDA RAHMAWATI.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota 
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
@@ -371,7 +371,7 @@
 ### [35] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota 
 * **TTL:** Mojokerto, 29 Juli 2006
 * **Nomer Handphone:** 081515667521
 * **Username GitHub:** @jimlydwi
