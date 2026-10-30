@@ -318,10 +318,10 @@
 * <img src="assets/PANITIA/PDD/PDD - RAIHAN FIRDAUS ALFARITSI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
 * **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [NGAWI, 24_SEPTEMBER_2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [NGAWI]
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - [ACHMAD_ALVIN_AL_FALAH]
@@ -481,6 +481,16 @@
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+## [46] Volunteer - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGARONG, 19 FEBRUARI_2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN_TIMUR]
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
