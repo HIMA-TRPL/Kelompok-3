@@ -613,8 +613,8 @@
 * **Asal Sekolah:** [SMAN_5_MADIUN]
 * **Fun Fact:** [GAK_SUKA_MAKAN_PEDES]
 
-### [56] [264311056] - [RESTU_PRAYUGA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYUGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [56] [264311056] - [RESTU_PRAYOGA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU PRAYOGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RESTU_PRAYUGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO,19_JANUARI_2008]
