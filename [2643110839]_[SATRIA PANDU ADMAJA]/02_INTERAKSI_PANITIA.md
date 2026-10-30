@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - [MUHAMMAD_AKBAR_FADILAH]
-*_<img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.png" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover" width="300px" height="300px">
+  *_<img src="assets/PANITIA/BPH/BPH - MUHAMMAD AKBAR FADILAH.png" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_AKBAR_FADILAH]
 * **Jabatan:** [KETUA_UMUM]
 * **TTL:** [BANJARMASIN,_17_JULI_2006]
