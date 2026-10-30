@@ -450,7 +450,7 @@
 
 ### [39] Volunteer - [SEPTIAN_ANGGA_SAPUTRA]
 * ikuti langkah nomer 1 untuk menampilkan gambar
-* <img src="\assets\PANITIA\VOLUNTEER\VOLUNTEER - SEPTIAN_ANGGA_SAPUTRA" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="\assets\PANITIA\VOLUNTEER\VOLUNTEER - SEPTIAN_ANGGA_SAPUTRA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEPTIAN_ANGGA_SAPUTRA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO_12_SEPTEMBER_2006]
