@@ -81,17 +81,6 @@
 * **Asal Sekolah:** SMAN 1 MOJOSARI
 * **Fun Fact:** love matcha dan capybara💚🤎
 
-### [08] 264311008 - BERTHA SAMPOERNA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008 - BERTHA SAMPOERNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** BERTHA SAMPOERNA
-* **NIM:** 264311008
-* **TTL:** NGAWI, 29 JANUARI 2008
-* **Nomer Handphone:** 085746137108
-* **Nama Kelompok:** REACT
-* **Asal Daerah:** NGAWI
-* **Asal Sekolah:** SLONCOM
-* **Fun Fact:** TIDAK ADA
-
 ### [09] 264311009 - BRAMANTA SETYA BAGASKARA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009 - BRAMANTA SETYA BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BRAMANTA SETYA BAGASKARA
