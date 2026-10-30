@@ -7,7 +7,7 @@
 ### [01] [264311001] - [ADHINIA_ALKURRATU_AINNI]
 * <img src="\assets\MAHASISWA_BARU\Kelas_1A\26431101-ADHINIA_ALKURRATU_AINI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
-* **NIM:** [26431101]
+* **NIM:** [264311001]
 * **TTL:** [MADIUN_11_DESEMBER_2007]
 * **Nomer Handphone:** [0895397031103]
 * **Nama Kelompok:** [EXPRESS]
