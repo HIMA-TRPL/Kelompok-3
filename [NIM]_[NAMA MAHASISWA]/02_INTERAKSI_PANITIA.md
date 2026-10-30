@@ -317,11 +317,11 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** STAFF
+* **TTL:** NGAWI, 24_SEPTEMBER_2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** NGAWI
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
@@ -472,8 +472,8 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - [NADYA_NUR_KAMILA]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [45] Volunteer - NADYA_NUR_KAMILA
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="NADYA_NUR_KAMILA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADYA_NUR_KAMILA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN, 1_SEPTEMBER_2006]
@@ -482,8 +482,8 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-## [46] Volunteer - [GALANG_SURYA_PRASETYO]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jfif" alt="Description" style="object-fit:cover" width="300px" height="300px">
+## [46] Volunteer - GALANG_SURYA_PRASETYO
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jfif" alt="GALANG_SURYA_PRASETYO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [TENGGARONG, 19 FEBRUARI_2007]
