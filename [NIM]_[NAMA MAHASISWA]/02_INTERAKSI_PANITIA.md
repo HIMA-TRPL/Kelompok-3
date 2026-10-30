@@ -111,7 +111,7 @@
 ### [11] Dagri - Nadia Tifara Sidiq
 * <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
-* **Jabatan:** Sie Acara
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 27 Desember 2005
 * **Nomer Handphone:** 081547416320
 * **Username GitHub:** @Nadia271205
@@ -155,7 +155,7 @@
 ### [15] Humas - Cristian Reynaldi
 * <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.jpg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota
 * **TTL:** Jakarta, 18 Januari 2007
 * **Nomer Handphone:** 088296706471
 * **Username GitHub:** @crysaldi
@@ -371,7 +371,7 @@
 ### [35] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
-* **Jabatan:** Perkap
+* **Jabatan:** Anggota
 * **TTL:** Mojokerto, 29 Juli 2006
 * **Nomer Handphone:** 081515667521
 * **Username GitHub:** @jimlydwi
@@ -381,7 +381,7 @@
 ### [36] DKM - Dheandra Khairunnisa P.
 * <img src="assets/PANITIA/DKM/DKM - DHEANDRA KHAIRUNNISA PAMBUDI.jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
-* **Jabatan:** Sie Kesehatan
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 27 September 2005
 * **Nomer Handphone:** 085812382730
 * **Username GitHub:** @DheandraKhairunnisaP
