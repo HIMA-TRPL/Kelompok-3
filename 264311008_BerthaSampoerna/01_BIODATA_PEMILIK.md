@@ -8,7 +8,7 @@
 * **Nama Kelompok:** [REACT]
 * **Asal Daerah:** [NGAWI]
 * **Asal Sekolah:** [SLONCOM]
-* **Fun Fact:** [FUN_FACT]
+* **Fun Fact:** [SUKA OTOMOTIF]
 
 ---
 
