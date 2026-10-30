@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [DHEA_NOVIKA]
-* <img src="assets/PANITIA/BPH - DHEA NOVIKA" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH - DHEA NOVIKA.png" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEA_NOVIKA]
 * **Jabatan:** [BENDAHARA_2]
 * **TTL:** [MADIUN,_13_NOVEMBER_2006]
@@ -69,7 +69,7 @@
 ## 🏛️ DIVISI DAGRI (DALAM NEGERI)
 
 ### [07] DAGRI - [ALVIAN_DWIKY_PUTRA_SANTOSO]
-* <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra Santoso.png" alt="ALVIAN DWIKY PUTRA SANTOSO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN DWIKY PUTRA SANTOSO.png" alt="ALVIAN DWIKY PUTRA SANTOSO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVIAN_DWIKY_PUTRA_SANTOSO]
 * **Jabatan:** [KOORDINATOR_DAGRI]
 * **TTL:** [PONOROGO,_02_DESEMBER_2005]
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] DAGRI - [DZAKWAN_DARIS_FAKHRUDDIN]
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="DZAKWAN DARIS FAKHRUDDIN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - DZAKWAN DARIS FAKHRUDDIN.png" alt="DZAKWAN DARIS FAKHRUDDIN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DZAKWAN_DARIS_FAKHRUDDIN]
 * **Jabatan:** [ANGGOTA_DAGRI]
 * **TTL:** [MADIUN,_13_APRIL_2006]
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] DAGRI - ["FIRDAUS_ILHAM_FADHLURRAHMAN"].
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham Fadhlurrahman.png" alt="FIRDAUS ILHAM F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS ILHAM Fadhlurrahman.png" alt="FIRDAUS ILHAM F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FIRDAUS_ILHAM_F.]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,_01_JANUARI_2007]
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] DAGRI - [BANGKIT_CAHYA_LINUWIH]
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.png" alt="BANGKIT CAHYA LINUWIH" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.png" alt="BANGKIT CAHYA LINUWIH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [BANGKIT_CAHYA_LINUWIH]
 * **Jabatan:** [STAFF_MUDA_DAGRI]
 * **TTL:** [PACITAN,_02_APRIL_2006]
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] DAGRI - [NADIA_TIFARA_SIDIQ]
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara Sidiq.png" alt="NADIA TIFARA SIDIQ" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - NADIA TIFARA SIDIQ.png" alt="NADIA TIFARA SIDIQ" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADIA_TIFARA_SIDIQ]
 * **Jabatan:** [SIE_ACARA]
 * **TTL:** [MADIUN,_27_DESEMBER_2005]
