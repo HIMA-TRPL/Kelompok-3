@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ## [46] Volunteer - [GALANG_SURYA_PRASETYO]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jfif" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [TENGGARONG, 19 FEBRUARI_2007]
