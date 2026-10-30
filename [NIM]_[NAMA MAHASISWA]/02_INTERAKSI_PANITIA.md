@@ -214,7 +214,7 @@
 
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * ikuti langkah nomer 1 untuk menampilkan gambar
-* <img src="\assets\PANITIA\PSDM\PSDM - RINDY_CANTIKA_AGUSTINA_P.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="\assets\PANITIA\PSDM\PSDM - RINDY_CANTIKA_AGUSTINA_PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN_31_AGUSTUS_2006]
@@ -247,7 +247,7 @@
 
 ### [22] PSDM - [AZZA_AULIYAUL_F.]
 * ikuti langkah nomer 1 untuk menampilkan gambar
-* <img src="\assets\PANITIA\PSDM\PSDM - AZZA_AULIYAUL_F.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="\assets\PANITIA\PSDM\PSDM - AZZA_AULIYAUL_F..jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F.]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN_19_NOVEMBER_2005]
