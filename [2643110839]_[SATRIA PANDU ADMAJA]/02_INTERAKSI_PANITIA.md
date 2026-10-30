@@ -123,7 +123,7 @@
 ## 🏛️ DIVISI HUMAS (HUBUNGAN MASYARAKAT)
 
 ### [12] HUMAS - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] HUMAS - [MUHAMMAD_RAUFA_HAFID_WIDODO]
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid Widodo.png" alt="MUHAMMAD RAUFA HAFID WIDODO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.png" alt="MUHAMMAD RAUFA HAFID WIDODO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_RAUFA_HAFID_WIDODO]
 * **Jabatan:** [ANGGOTA_HUMAS]
 * **TTL:** [MADIUN,_26_SEPTEMBER_2005]
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] HUMAS - [ALVINA_NUR_LAILA_ANGGRAINI]
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.png" alt="ALVINA NUR LAILA ANGGRAINI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ALVINA NUR LAILA ANGGRAINI.png" alt="ALVINA NUR LAILA ANGGRAINI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVINA_NUR_LAILA_ANGGRAINI]
 * **Jabatan:** [ANGGOTA_HUMAS]
 * **TTL:** [SURABAYA,_31_MARET_2005]
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] HUMAS - [CRISTIAN_REYNALDI]
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="CRISTIAN REYNALDI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.png" alt="CRISTIAN REYNALDI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [CRISTIAN_REYNALDI]
 * **Jabatan:** [PERKAP]
 * **TTL:** [JAKARTA,_18_JANUARI_2007]
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] HUMAS - [ATHA_ARYASATYA]
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="ATHA ARYASATYA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ATHA ARYASATYA.png" alt="ATHA ARYASATYA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ATHA_ARYASATYA]
 * **Jabatan:** [STAFF_HUMAS]
 * **TTL:** [MADIUN,_22_FEBRUARI_2005]
@@ -177,7 +177,7 @@
 ## 🏛️ DIVISI PSDM (PENGEMBANGAN SUMBER DAYA MAHASISWA)
 
 ### [17] PSDM - [RIYAN_ZAKARIA_ZULKARNAIN]
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="RIYAN ZAKARIA ZULKARNAIN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RIYAN ZAKARIA ZULKARNAIN.png" alt="RIYAN ZAKARIA ZULKARNAIN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RIYAN_ZAKARIA_ZULKARNAIN]
 * **Jabatan:** [KOORDINATOR_PSDM]
 * **TTL:** [PONOROGO,_07_SEPTEMBER_2005]
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - [MUHAMMAD_DANI_TAUFIQURROHMAN]
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani Taufiqurrohman.png" alt="MOHAMMAD DANI TAUFIQURROHMAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - MUHAMMAD DANI TAUFIQURROHMAN" alt="MOHAMMAD DANI TAUFIQURROHMAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_DANI_TAUFIQURROHMAN]
 * **Jabatan:** [ANGGOTA_PSDM]
 * **TTL:** [DENPASAR,_21_MARET_2006]
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_P.]
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="RINDY CANTIKA AGUSTINA P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA P.png" alt="RINDY CANTIKA AGUSTINA P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_P.]
 * **Jabatan:** [ANGGOTA_PSDM]
 * **TTL:** [MADIUN,_31_AGUSTUS_2006]
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [ABDUL_AZIZ_MUSHTHOFA]
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="ABDUL AZIZ MUSHTHOFA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - ABDUL AZIZ MUSHTHOFA.png" alt="ABDUL AZIZ MUSHTHOFA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ABDUL_AZIZ_MUSHTHOFA]
 * **Jabatan:** [STAFF_MUDA_PSDM_/_KETUPEL]
 * **TTL:** [TULUNGAGUNG,_13_APRIL_2006]
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - [TIARA_MAYA_LESTARI]
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.png" alt="TIARA MAYA LESTARI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - TIARA MAYA LESTARI.png" alt="TIARA MAYA LESTARI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [TIARA_MAYA_LESTARI]
 * **Jabatan:** [ANGGOTA_PSDM]
 * **TTL:** [NGANJUK,_11_MARET_2006]
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [AZZA_AULIYAUL_F.]
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="AZZA AULIYAUL F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F.png" alt="AZZA AULIYAUL F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F.]
 * **Jabatan:** [ANGGOTA_PSDM]
 * **TTL:** [MADIUN,_19_NOVEMBER_2005]
