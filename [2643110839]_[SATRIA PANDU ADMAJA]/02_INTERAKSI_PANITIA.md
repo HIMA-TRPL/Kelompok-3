@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [AISYAH_NUR_FADILLAH]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILLAH.png" alt="AISYAH NUR FADILLAH" style="object-fit:cover" width="300px" height="300px">
+* <img src="/assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILLAH.png." alt="AISYAH NUR FADILLAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AISYAH_NUR_FADILLAH]
 * **Jabatan:** [VOLUNTEER_(KOMDIS)]
 * **TTL:** [MAGETAN,_21_SEPTEMBER_2006]
