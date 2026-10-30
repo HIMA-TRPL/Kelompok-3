@@ -123,7 +123,7 @@
 ## 🏛️ DIVISI HUMAS (HUBUNGAN MASYARAKAT)
 
 ### [12] HUMAS - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
@@ -241,7 +241,7 @@
 ## 🏛️ DIVISI SOSMA (SOSIAL MASYARAKAT)
 
 ### [23] SOSMA - [ANGGI_WAHYU_SAPUTRA]
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="ANGGI WAHYU SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - ANGGI WAHYU SAPUTRA.png" alt="ANGGI WAHYU SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANGGI_WAHYU_SAPUTRA]
 * **Jabatan:** [KOORDINATOR_SOSMA]
 * **TTL:** [TULUNGAGUNG,_14_JUNI_2005]
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] SOSMA - [EDWIN_NUR_CAHYO]
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="EDWIN NUR CAHYO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - EDWIN NUR CAHYO.png" alt="EDWIN NUR CAHYO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [EDWIN_NUR_CAHYO]
 * **Jabatan:** [ANGGOTA_SOSMA]
 * **TTL:** [DAGANGAN,_MADIUN,_01_NOVEMBER_2006]
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] SOSMA - [MUHSYAM_FAHRIEL_SEPTIANSYAH.]
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel Septiansyah.png" alt="MUHSYAM FAHRIEL S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - MUHSYAM FAHRIEL SEPTIANSYAH.png" alt="MUHSYAM FAHRIEL S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHSYAM_FAHRIEL_SEPTIANSYAH.]
 * **Jabatan:** [ANGGOTA_SOSMA]
 * **TTL:** [NGAWI,_25_SEPTEMBER_2005]
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] SOSMA - [LUTFILAH_AHMAD]
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="LUTFILAH AHMAD" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - LUTFILAH AHMAD.png" alt="LUTFILAH AHMAD" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [LUTFILAH_AHMAD]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [MAGETAN,_30_JANUARI_2007]
@@ -295,7 +295,7 @@
 ## 🏛️ DIVISI PDD (PUBLIKASI, DOKUMENTASI & DESAIN)
 
 ### [28] PDD - [ARDHANA_SYAH_HIDAYAT]
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="ARDHANA SYAH HIDAYAT" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - ARDHANA SYAH HIDAYAT.png" alt="ARDHANA SYAH HIDAYAT" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ARDHANA_SYAH_HIDAYAT]
 * **Jabatan:** [KOORDINATOR_PDD]
 * **TTL:** [PONOROGO,_04_JULI_2005]
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - [RADITYA_ALFAREZA_PURNAMA_PUTRA]
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="RADITYA ALFAREZA PURNAMA PUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - RADITYA ALFAREEZA PURNAMA.png" alt="RADITYA ALFAREZA PURNAMA PUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RADITYA_ALFAREZA_PURNAMA_PUTRA]
 * **Jabatan:** [ANGGOTA_PDD]
 * **TTL:** [MADIUN,_04_MARET_2006]
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - [ACHMAD_ALVIN_AL_FALAH]
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="ACHMAD ALVIN AL FALAH" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - ACHMAD ALVIN AL FALAH.png" alt="ACHMAD ALVIN AL FALAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ACHMAD_ALVIN_AL_FALAH]
 * **Jabatan:** [PJ]
 * **TTL:** [PONOROGO,_18_JANUARI_2006]
@@ -335,7 +335,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - [DAFFA_HAFIST_ATHA_KUNCORO]
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="DAFFA HAFIST ATHA KUNCORO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.png" alt="DAFFA HAFIST ATHA KUNCORO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DAFFA_HAFIST_ATHA_KUNCORO]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [SURABAYA,_16_JANUARI_2007]
@@ -345,7 +345,7 @@
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - [DINDA_RAHMAWATI]
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="DINDA RAHMAWATI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - DINDA RAHMAWATI.png" alt="DINDA RAHMAWATI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DINDA_RAHMAWATI]
 * **Jabatan:** [STAFF_MUDA]
 * **TTL:** [MADIUN,_09_SEPTEMBER_2006]
