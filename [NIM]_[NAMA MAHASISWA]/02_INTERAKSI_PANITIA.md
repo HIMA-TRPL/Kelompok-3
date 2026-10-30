@@ -101,7 +101,7 @@
 ### [10] Dagri - Bangkit Cahya Linuwih
 * <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT CAHYA LINUWIH.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
-* **Jabatan:** Staff Muda Dagri
+* **Jabatan:** Anggota Muda Dagri
 * **TTL:** Pacitan, 02 April 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
@@ -283,7 +283,7 @@
 ### [27] Sosma - Lutfilah Ahmad
 * <img src="assets/PANITIA/Sosma/SOSMA - LUTFILAH AHMAD.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota Muda
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfillahh
@@ -317,7 +317,7 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** STAFF
+* **Jabatan:** Anggota
 * **TTL:** NGAWI, 24_SEPTEMBER_2005
 * **Nomer Handphone:** 0895405971849
 * **Username GitHub:** @hannnzu
@@ -327,7 +327,7 @@
 ### [31] PDD - Achmad Alvin Al Falah
 * <img src="assets/PANITIA/PDD/PDD - ACHMAD ALVIN AL FALAH.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
-* **Jabatan:** PJ
+* **Jabatan:** Anggota
 * **TTL:** Ponorogo, 18 Januari 2006
 * **Nomer Handphone:** 085230210357
 * **Username GitHub:** @AchmadAlvin
@@ -337,7 +337,7 @@
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota Muda
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -347,7 +347,7 @@
 ### [33] PDD - Dinda Rahmawati
 * <img src="assets/PANITIA/PDD/PDD - DINDA RAHMAWATI.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
-* **Jabatan:** Staff Muda
+* **Jabatan:** Anggota Muda
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
