@@ -947,7 +947,7 @@
 * **Asal Sekolah:** [SMAN_1_MAOSPATI]
 * **Fun Fact:** [SUKA_GAMBAR]
 
-## [85] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
+## [86] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088 - ZIDAN ZARAKHI RIDWAN HABIBI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
 * **NIM:** [264311088]
