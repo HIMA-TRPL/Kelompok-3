@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] VOLUNTEER - [KUNNI_SOFA_RAHMAYANI]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.png" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
+* <img src="/assets/PANITIA/volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.png" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [KUNNI_SOFA_RAHMAYANI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN,_04_JULI_2006]
