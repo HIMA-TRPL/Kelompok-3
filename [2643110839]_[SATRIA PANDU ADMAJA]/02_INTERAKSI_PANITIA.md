@@ -123,7 +123,7 @@
 ## 🏛️ DIVISI HUMAS (HUBUNGAN MASYARAKAT)
 
 ### [12] HUMAS - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/HUMAS/HUMAS -ADAM NOVERIAN.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ADAM NOVERIAN.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
