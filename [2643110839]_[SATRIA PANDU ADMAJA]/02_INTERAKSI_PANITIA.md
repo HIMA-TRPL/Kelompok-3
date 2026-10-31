@@ -413,7 +413,7 @@
 ## 🏛️ VOLUNTEER
 
 ### [39] VOLUNTEER - [SEPTIAN_ANGGA_SAPUTRA]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.png" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEPTIAN_ANGGA_SAPUTRA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO,_12_SEPTEMBER_2006]
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] VOLUNTEER - [INDAH_AYU_ASTUTI]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI.png" alt="INDAH AYU ASTUTI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - INDAH AYU ASTUTI.png" alt="INDAH AYU ASTUTI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [INDAH_AYU_ASTUTI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO,_27_DESEMBER_2006]
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] VOLUNTEER - [KUNNI_SOFA_RAHMAYANI]
-* <img src="/assets/PANITIA/volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.png" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - KUNNI SOFA RAHMAYANI.png" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [KUNNI_SOFA_RAHMAYANI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN,_04_JULI_2006]
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] VOLUNTEER - [AISYAH_NUR_FADILLAH]
-* <img src="assets/PANITIA/volunteer/VOLUNTEER - AISYAH NUR FADILLAH.png" alt="NABIL SUNU WIDYA DHANA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - AISYAH NUR FADILLAH.png" alt="AISYAH NUR FADILLAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AISYAH_NUR_FADILLAH]
 * **Jabatan:** [VOLUNTEER_(KOMDIS)]
 * **TTL:** [MAGETAN,_21_SEPTEMBER_2006]
