@@ -187,8 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - [MUHAMMAD_DANI_TAUFIQURROHMAN]
-* <img src="assets/PANITIA/PSDM/PSDM - MUHAMMAD DANI TAUFIQURROHMAN" alt="MOHAMMAD DANI TAUFIQURROHMAN" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [MUHAMMAD_DANI_TAUFIQURROHMAN]
+* <img src="assets/PANITIA/PSDM/PSDM - MUHAMMAD DANI TAUFIQURROHMAN.png" alt="MUHAMMAD DANI TAUFIQURROHMAN" style="object-fit:cover" width="300px" height="300px">
 * **Jabatan:** [ANGGOTA_PSDM]
 * **TTL:** [DENPASAR,_21_MARET_2006]
 * **Nomer Handphone:** [0895808475151]
