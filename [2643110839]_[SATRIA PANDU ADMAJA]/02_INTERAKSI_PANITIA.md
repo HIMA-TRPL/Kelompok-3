@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [DHEA_NOVIKA]
-* <img src="assets/PANITIA/BPH - DHEA NOVIKA.png" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - DHEA NOVIKA.png" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEA_NOVIKA]
 * **Jabatan:** [BENDAHARA_2]
 * **TTL:** [MADIUN,_13_NOVEMBER_2006]
@@ -123,7 +123,7 @@
 ## 🏛️ DIVISI HUMAS (HUBUNGAN MASYARAKAT)
 
 ### [12] HUMAS - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/HUMAS - ADAM NOVERIAN.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS -ADAM NOVERIAN.png" alt="ADAM NOVERIAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
