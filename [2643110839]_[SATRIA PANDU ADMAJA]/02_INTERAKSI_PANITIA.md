@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] HUMAS - [MUHAMMAD_RAUFA_HAFID_WIDODO]
-* <img src="assets/PANITIA/Humas/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.png" alt="MUHAMMAD RAUFA HAFID WIDODO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.png" alt="MUHAMMAD RAUFA HAFID WIDODO" style="object-fit:cover" width="300px" height="300px">height="300px">
 * **Nama Panitia:** [MUHAMMAD_RAUFA_HAFID_WIDODO]
 * **Jabatan:** [ANGGOTA_HUMAS]
 * **TTL:** [MADIUN,_26_SEPTEMBER_2005]
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] HUMAS - [ALVINA_NUR_LAILA_ANGGRAINI]
-* <img src="assets/PANITIA/Humas/HUMAS - ALVINA NUR LAILA ANGGRAINI.png" alt="ALVINA NUR LAILA ANGGRAINI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ALVINA NUR LAILA ANGGRAINI.png" alt="ALVINA NUR LAILA ANGGRAINI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVINA_NUR_LAILA_ANGGRAINI]
 * **Jabatan:** [ANGGOTA_HUMAS]
 * **TTL:** [SURABAYA,_31_MARET_2005]
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] HUMAS - [CRISTIAN_REYNALDI]
-* <img src="assets/PANITIA/Humas/HUMAS - CRISTIAN REYNALDI.png" alt="CRISTIAN REYNALDI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - CRISTIAN REYNALDI.png" alt="CRISTIAN REYNALDI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [CRISTIAN_REYNALDI]
 * **Jabatan:** [PERKAP]
 * **TTL:** [JAKARTA,_18_JANUARI_2007]
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] HUMAS - [ATHA_ARYASATYA]
-* <img src="assets/PANITIA/Humas/HUMAS - ATHA ARYASATYA.png" alt="ATHA ARYASATYA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/HUMAS - ATHA ARYASATYA.png" alt="ATHA ARYASATYA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ATHA_ARYASATYA]
 * **Jabatan:** [STAFF_HUMAS]
 * **TTL:** [MADIUN,_22_FEBRUARI_2005]
