@@ -413,7 +413,7 @@
 ## 🏛️ VOLUNTEER
 
 ### [39] VOLUNTEER - [SEPTIAN_ANGGA_SAPUTRA]
-* <img src="assets/PANITIA/volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.png" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEPTIAN_ANGGA_SAPUTRA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO,_12_SEPTEMBER_2006]
